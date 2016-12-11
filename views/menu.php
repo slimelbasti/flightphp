@@ -1,5 +1,8 @@
-<ul>
+<nav class="uk-navbar uk-navbar-secondary  uk-hidden-small">
+                <div class="uk-container-center uk-container">
+                    <ul class="uk-navbar-nav">
 <?php
+
 foreach ($pages as $page) {
 	?>
 	<li>
